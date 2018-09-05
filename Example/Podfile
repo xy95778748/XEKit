@@ -1,0 +1,6 @@
+use_frameworks!
+target 'XEKit_Tests' do
+  pod 'XEKit', :path => '../'
+  
+  
+end
