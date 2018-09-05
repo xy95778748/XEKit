@@ -1,0 +1,16 @@
+PODS:
+  - XEKit (0.1.0)
+
+DEPENDENCIES:
+  - XEKit (from `../`)
+
+EXTERNAL SOURCES:
+  XEKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XEKit: a591846152b5e0d6e923311d14b3636421cf9b99
+
+PODFILE CHECKSUM: a78ebf695bab1c2efae28790b43acddf4d2f0aa2
+
+COCOAPODS: 1.5.3

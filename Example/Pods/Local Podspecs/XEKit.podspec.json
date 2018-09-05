@@ -1,0 +1,22 @@
+{
+  "name": "XEKit",
+  "version": "0.1.0",
+  "summary": "A short description of XEKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xingyi/XEKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xingyi": "xingyi@hckuku.com"
+  },
+  "source": {
+    "git": "https://github.com/xingyi/XEKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XEKit/Classes/**/*"
+}
