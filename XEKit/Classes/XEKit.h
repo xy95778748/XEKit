@@ -6,11 +6,11 @@
 //  Copyright © 2018年 Xy. All rights reserved.
 //
 
-#ifndef XYKit_h
-#define XYKit_h
+#ifndef XEKit_h
+#define XEKit_h
 
 #import "UIView+ViewFrame.h"
 #import "FastFunction.h"
 
 
-#endif /* XYKit_h */
+#endif /* XEKit_h */
